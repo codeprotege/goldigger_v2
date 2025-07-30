@@ -1,0 +1,8 @@
+pandas
+yfinance
+requests
+openai
+tqdm
+python-dotenv
+pygooglenews
+aiohttp

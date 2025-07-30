@@ -1,0 +1,29 @@
+[
+    {
+        "Date":1752710400000,
+        "Sentiment_Score":-0.04,
+        "Bullish_Count":31,
+        "Bearish_Count":35,
+        "Neutral_Count":34,
+        "Total_Articles":100,
+        "Price_Direction":1
+    },
+    {
+        "Date":1752969600000,
+        "Sentiment_Score":0.34,
+        "Bullish_Count":51,
+        "Bearish_Count":17,
+        "Neutral_Count":32,
+        "Total_Articles":100,
+        "Price_Direction":1
+    },
+    {
+        "Date":1753056000000,
+        "Sentiment_Score":0.53,
+        "Bullish_Count":66,
+        "Bearish_Count":13,
+        "Neutral_Count":21,
+        "Total_Articles":100,
+        "Price_Direction":1
+    }
+]
